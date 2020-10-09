@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="sovkombank:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06461e1b-078d-421f-9663-b38dbff2f2d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iWOGCCC3yfStKJk4A7xQcqBTJZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/config" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ВАСЯ\IdeaProjects\sovkombank\src\main\webapp" />
+      <recent name="C:\Users\ВАСЯ\IdeaProjects\sovkombank\webapp" />
+      <recent name="C:\Users\ВАСЯ\IdeaProjects\sovkombank\web" />
+      <recent name="C:\Users\ВАСЯ\IdeaProjects\sovkombank\web\WEB-INF" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ВАСЯ\IdeaProjects\sovkombank\src\main\java\config" />
+      <recent name="C:\Users\ВАСЯ\IdeaProjects\sovkombank\src\main\java" />
+      <recent name="C:\Users\ВАСЯ\IdeaProjects\sovkombank\src\main\webapp" />
+      <recent name="C:\Users\ВАСЯ\IdeaProjects\sovkombank\webapp" />
+      <recent name="C:\Users\ВАСЯ\IdeaProjects\sovkombank\web\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.57" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.57" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="sovkombank:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_57_sovkombank_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55060" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="sovkombank:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.57" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_sovkombank" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55060" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.019650655" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06461e1b-078d-421f-9663-b38dbff2f2d2" name="Default Changelist" comment="" />
+      <created>1602019792626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602019792626</updated>
+      <workItem from="1602019811446" duration="3953000" />
+      <workItem from="1602191905506" duration="3685000" />
+      <workItem from="1602226405420" duration="716000" />
+      <workItem from="1602227599865" duration="4036000" />
+      <workItem from="1602278606950" duration="3250000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="105" y="49" key="#Tomcat_Server" timestamp="1602227844068">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state x="105" y="49" key="#Tomcat_Server/0.0.1024.781@0.0.1024.781" timestamp="1602227844068" />
+    <state x="0" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602230091088">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state x="0" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.781@0.0.1024.781" timestamp="1602230091088" />
+    <state x="105" y="48" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1602227810710">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state x="105" y="48" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1024.781@0.0.1024.781" timestamp="1602227810710" />
+    <state x="280" y="297" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1602229654048">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state x="280" y="297" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1024.781@0.0.1024.781" timestamp="1602229654048" />
+    <state x="312" y="297" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1602279069716">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state x="312" y="297" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1024.781@0.0.1024.781" timestamp="1602279069716" />
+    <state x="243" y="137" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602023195021">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state x="243" y="137" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1024.781@0.0.1024.781" timestamp="1602023195021" />
+    <state x="243" y="145" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1602229950573">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state x="243" y="145" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1024.781@0.0.1024.781" timestamp="1602229950573" />
+    <state x="267" y="105" key="DetectedRootsChooserDialog" timestamp="1602230187514">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state x="267" y="105" key="DetectedRootsChooserDialog/0.0.1024.781@0.0.1024.781" timestamp="1602230187514" />
+    <state x="217" y="131" key="FileChooserDialogImpl" timestamp="1602230483514">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state x="217" y="131" key="FileChooserDialogImpl/0.0.1024.781@0.0.1024.781" timestamp="1602230483514" />
+    <state width="931" height="183" key="GridCell.Tab.0.bottom" timestamp="1602282050402">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state width="931" height="183" key="GridCell.Tab.0.bottom/0.0.1024.781@0.0.1024.781" timestamp="1602282050402" />
+    <state width="931" height="183" key="GridCell.Tab.0.center" timestamp="1602282050402">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state width="931" height="183" key="GridCell.Tab.0.center/0.0.1024.781@0.0.1024.781" timestamp="1602282050402" />
+    <state width="931" height="183" key="GridCell.Tab.0.left" timestamp="1602282050402">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state width="931" height="183" key="GridCell.Tab.0.left/0.0.1024.781@0.0.1024.781" timestamp="1602282050402" />
+    <state width="931" height="183" key="GridCell.Tab.0.right" timestamp="1602282050402">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state width="931" height="183" key="GridCell.Tab.0.right/0.0.1024.781@0.0.1024.781" timestamp="1602282050402" />
+    <state width="931" height="183" key="GridCell.Tab.1.bottom" timestamp="1602282050402">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state width="931" height="183" key="GridCell.Tab.1.bottom/0.0.1024.781@0.0.1024.781" timestamp="1602282050402" />
+    <state width="931" height="183" key="GridCell.Tab.1.center" timestamp="1602282050402">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state width="931" height="183" key="GridCell.Tab.1.center/0.0.1024.781@0.0.1024.781" timestamp="1602282050402" />
+    <state width="931" height="183" key="GridCell.Tab.1.left" timestamp="1602282050402">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state width="931" height="183" key="GridCell.Tab.1.left/0.0.1024.781@0.0.1024.781" timestamp="1602282050402" />
+    <state width="931" height="183" key="GridCell.Tab.1.right" timestamp="1602282050402">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state width="931" height="183" key="GridCell.Tab.1.right/0.0.1024.781@0.0.1024.781" timestamp="1602282050402" />
+    <state width="931" height="183" key="GridCell.Tab.2.bottom" timestamp="1602282050402">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state width="931" height="183" key="GridCell.Tab.2.bottom/0.0.1024.781@0.0.1024.781" timestamp="1602282050402" />
+    <state width="931" height="183" key="GridCell.Tab.2.center" timestamp="1602282050402">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state width="931" height="183" key="GridCell.Tab.2.center/0.0.1024.781@0.0.1024.781" timestamp="1602282050402" />
+    <state width="931" height="183" key="GridCell.Tab.2.left" timestamp="1602282050402">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state width="931" height="183" key="GridCell.Tab.2.left/0.0.1024.781@0.0.1024.781" timestamp="1602282050402" />
+    <state width="931" height="183" key="GridCell.Tab.2.right" timestamp="1602282050402">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state width="931" height="183" key="GridCell.Tab.2.right/0.0.1024.781@0.0.1024.781" timestamp="1602282050402" />
+    <state x="43" y="45" key="Maven.ArtifactSearchDialog" timestamp="1602022997571">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state x="43" y="45" key="Maven.ArtifactSearchDialog/0.0.1024.781@0.0.1024.781" timestamp="1602022997571" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1602282120549">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1024.781@0.0.1024.781" timestamp="1602282120549" />
+    <state x="209" y="214" key="com.intellij.ide.util.TipDialog" timestamp="1602278620087">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state x="209" y="214" key="com.intellij.ide.util.TipDialog/0.0.1024.781@0.0.1024.781" timestamp="1602278620087" />
+    <state x="0" y="86" key="new project wizard" timestamp="1602193554275">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state x="0" y="86" key="new project wizard/0.0.1024.781@0.0.1024.781" timestamp="1602193554275" />
+    <state x="193" y="73" key="spring file set editor" timestamp="1602229354571">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state x="193" y="73" key="spring file set editor/0.0.1024.781@0.0.1024.781" timestamp="1602229354571" />
+  </component>
+</project>
