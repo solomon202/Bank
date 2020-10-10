@@ -239,12 +239,24 @@
       <workItem from="1602226405420" duration="716000" />
       <workItem from="1602227599865" duration="4036000" />
       <workItem from="1602278606950" duration="3831000" />
-      <workItem from="1602356059254" duration="899000" />
+      <workItem from="1602356059254" duration="1540000" />
     </task>
+    <task id="LOCAL-00001" summary="seven">
+      <created>1602363917943</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602363917943</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="seven" />
+    <option name="LAST_COMMIT_MESSAGE" value="seven" />
   </component>
   <component name="WindowStateProjectService">
     <state x="105" y="49" key="#Tomcat_Server" timestamp="1602227844068">
@@ -275,6 +287,10 @@
       <screen x="0" y="0" width="1024" height="781" />
     </state>
     <state x="243" y="145" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1024.781@0.0.1024.781" timestamp="1602229950573" />
+    <state x="137" y="0" key="CommitChangelistDialog2" timestamp="1602363915792">
+      <screen x="0" y="0" width="1024" height="781" />
+    </state>
+    <state x="137" y="0" key="CommitChangelistDialog2/0.0.1024.781@0.0.1024.781" timestamp="1602363915792" />
     <state x="267" y="105" key="DetectedRootsChooserDialog" timestamp="1602230187514">
       <screen x="0" y="0" width="1024" height="781" />
     </state>
